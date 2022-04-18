@@ -1,0 +1,16 @@
+{
+  "project": {
+    "heading": "Project workplace",
+    "title": "Get started on your workplace today!",
+    "card1": {
+      "heading": "Kick start your complete Bill of Material (BOM) here. Access our dedicated project management workspace to build and manage vour proiect and BOM.",
+      "subheading": "Find vour products in a few clicks, add to your Bill of material, group and order",
+      "linkLabel": "Select Products & Start your BOM >"
+    },
+    "card2": {
+      "heading": "Benefits of shared project management",
+      "subheading": "Sample benefit in one simple sentence",
+      "linkLabel": "Go to Project Workspace >"
+    }
+  }
+}

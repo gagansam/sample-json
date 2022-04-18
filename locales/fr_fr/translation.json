@@ -1,0 +1,16 @@
+{
+  "project": {
+    "heading": "Lieu de travail du projet",
+    "title": "Commencez dès aujourd'hui sur votre lieu de travail !",
+    "card1": {
+      "heading": "Démarrez votre nomenclature complète ici. Accédez à notre espace de travail dédié à la gestion de projet pour créer et gérer votre projet et votre nomenclature.",
+      "subheading": "Trouvez vos produits en quelques clics, ajoutez à votre nomenclature, groupez et commandez",
+      "linkLabel": "Sélectionnez des produits et démarrez votre nomenclature >"
+    },
+    "card2": {
+      "heading": "Avantages de la gestion de projet partagée",
+      "subheading": "Exemple d'avantage en une phrase simple",
+      "linkLabel": "Accédez à l'espace de travail du projet >"
+    }
+  }
+}
