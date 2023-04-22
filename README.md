@@ -1,1 +1,1 @@
-# sample-json
+# demo-apps
